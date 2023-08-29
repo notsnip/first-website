@@ -1,0 +1,14 @@
+/* mobile styling */
+@media only screen and (max-width: 600px){
+ .text{
+    padding-left: 20px;
+    font-size: 25px;
+ }
+ .scrool{
+    display: none;
+ }
+ #quote{
+    font-size: 20px;
+    padding: 0px 20px;
+ }
+}
