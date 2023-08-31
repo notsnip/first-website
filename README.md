@@ -4,7 +4,7 @@
 
 > On Idk August 2023, I completed the first version of my website.
 
-> On 30 August 2023, I stopped the development
+> On 30 August 2023, I stopped the development.
 
 :)
 
