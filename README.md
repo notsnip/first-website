@@ -1,10 +1,13 @@
+![HTML](/img/ss.png)
 
-## The Origin
-> On 21 August 2023, I decided to work on my personal website.
+ #### I hope my site look good!
 
-> On Idk August 2023, I completed the first version of my website.
+ - 21 August 2023, I decided to work on my personal website.
+ - Idk August 2023, I completed the first version of my website.
+ - 30 August 2023, I stopped the development.
+ - 4 September 2023, The development is just like One Piece's pacing.
 
-> On 30 August 2023, I stopped the development.
+  *Nothing* is going according to **plan**.
 
-:)
+
 
