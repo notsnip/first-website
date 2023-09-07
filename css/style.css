@@ -11,7 +11,7 @@ html,body{
 }
 
 .hero{
-    background-image: url(img/bg.png);
+    background-image: url(/img/bghigh.png);
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
