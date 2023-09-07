@@ -1,13 +1,11 @@
 ![HTML](/img/ss.png)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotSnipc/snipc)
 
- #### I hope my site look good!
+ #### I hope my site look decent!
 
- - 21 August 2023, I decided to work on my personal website.
- - Idk August 2023, I completed the first version of my website.
- - 30 August 2023, I stopped the development.
- - 4 September 2023, The development is just like One Piece's pacing.
+  I will keep *improving* the site as i **learn** more and more.
 
-  *Nothing* is going according to **plan**.
+  `Last Updated 9 September 2023.`
 
 
 
