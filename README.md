@@ -3,7 +3,13 @@
 
  #### I hope my site look decent!
 
-  I will keep *improving* the site as i **learn** more and more.
+**Used-**
+- Kursor.js
+- Vanilla CSS
+- HTML5
+- 3 lines of Javascript
+
+I will keep *improving* the site as i **learn** more and more.
 
   `Last Updated 9 September 2023.`
 
