@@ -38,6 +38,9 @@ html,body{
     font-size: 57px;
     color: rgb(255, 180, 180);
 }
+#snipc:hover{
+    color: rgb(233, 193, 193);
+}
 .black_box{
     height: 120px;
     background-color: black;
@@ -63,4 +66,8 @@ html,body{
     align-items: end;
     justify-content: center;
     color: white;
+}
+.scrool:hover{
+    font-size: 65px;
+    transform: rotate(-10deg);
 }
