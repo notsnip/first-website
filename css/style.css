@@ -55,15 +55,12 @@ html,body{
 .scrool{
     position: absolute;
     bottom: 8px;
-    right: 16px;
+    right: 30px;
     font-size: 18px;
-    font-size: 20px;
+    font-size: 60px;
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: end;
     justify-content: center;
     color: white;
-}
-.scrool h6{
-    
 }
