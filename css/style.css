@@ -11,13 +11,13 @@ html,body{
 }
 
 .hero{
-    background-image: url(/img/bghigh.png);
+    background-image: url(/img/bg.png);
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+    /* backdrop-filter: blur(5px); */
 
 }
-
 .text{
     color: white;
     font-size: 30px;
