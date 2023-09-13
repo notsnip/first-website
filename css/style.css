@@ -55,19 +55,21 @@ html,body{
     font-size: 25px;
 
 }
-.scrool{
+.github_icon{
     position: absolute;
     bottom: 8px;
     right: 30px;
-    font-size: 18px;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: end;
     justify-content: center;
     color: white;
 }
-.scrool:hover{
-    font-size: 65px;
-    transform: rotate(-10deg);
+.github_icon a{
+    text-decoration: none;
+    color: wheat;
+    padding-right: 15px;
+}
+.github_icon:hover{
 }
