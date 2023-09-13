@@ -30,6 +30,9 @@ html,body{
 .text{
     font-family: 'Poppins', sans-serif;
 }
+.text h6:hover{
+    filter: blur(1px)
+}
 .large_text{
     font-size: 75px;
     font-family: 'Work Sans', sans-serif;
@@ -55,21 +58,25 @@ html,body{
     font-size: 25px;
 
 }
-.github_icon{
+.links{
     position: absolute;
     bottom: 8px;
     right: 30px;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: end;
     justify-content: center;
     color: white;
+    border: 1px solid grey;
+    border-radius: 20px;
 }
-.github_icon a{
+.links a{
     text-decoration: none;
     color: wheat;
-    padding-right: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
-.github_icon:hover{
+.links:hover{
+    background-color: rgb(151, 149, 149);
 }
