@@ -1,4 +1,4 @@
-![HTML](/img/ss.png)
+![HTML](/img/snipc.png)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotSnipc/snipc)
 
  #### I hope my site look decent!
