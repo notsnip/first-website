@@ -1,6 +1,8 @@
 ![HTML](/img/snipc.png)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotSnipc/snipc)
 
+Initial Release:
+![](/img/ss.png)
  #### I hope my site look decent!
 
 **Used-**
@@ -9,9 +11,7 @@
 - HTML5
 - 3 lines of Javascript
 
-I will keep *improving* the site as i **learn** more and more.
-
-  `Last Updated 24 September 2023.`
+  `Last Updated 2 October 2023.`
 
 
 
