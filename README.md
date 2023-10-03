@@ -10,7 +10,7 @@ Made with Kursor.js ,Vanilla CSS ,HTML ,3 lines of Javascript.
 
 
 
-  `Last Updated 2 October 2023.`
+  `Last Updated 3 October 2023.`
 
 
 
