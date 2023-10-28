@@ -1,7 +1,7 @@
 ## **snipc's homepagage (legacy)**
-Made with Kursor.js ,Vanilla CSS ,HTML ,3 lines of Javascript.
+Made with 3 Lines of JavaScript.
 
-> I'm working on more feature packed and minimal website. Star it [here](https://github.com/realsnipc/snipc.me) (in development.)
+> I'm working on more feature packed and minimal website. Star it [here](https://github.com/realsnipc/snipc)
 
 
 
@@ -10,7 +10,7 @@ Made with Kursor.js ,Vanilla CSS ,HTML ,3 lines of Javascript.
 
 
 
-  `Last Updated 3 October 2023.`
+  `Last Updated 28 October 2023.`
 
 
 
