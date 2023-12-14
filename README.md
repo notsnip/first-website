@@ -1,7 +1,7 @@
-## **snipc's homepagage (legacy)**
+## **old.snipc.me**
 Made with 3 Lines of JavaScript.
 
-> I'm working on more feature packed and minimal website. Star it [here](https://github.com/realsnipc/snipc)
+> I've got a better website now. Star it [here](https://github.com/realsnipc/snipc)
 
 
 
