@@ -6,7 +6,6 @@ Made with 3 Lines of JavaScript.
 
 
 ![HTML](/img/snipc.png)
-![](/img/ss.png)
 
 
 
