@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -68,14 +69,37 @@ html,body{
     align-items: end;
     justify-content: center;
     color: white;
-    border: 1px solid grey;
-    border-radius: 15px;
 }
 .links a{
     text-decoration: none;
     color: wheat;
     padding-right: 15px;
     padding-left: 15px;
+}
+
+
+#song{
+  position: absolute;
+  bottom: 8px;
+  /* right: 30px; */
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+}
+
+
+#song_name{
+  margin-left: 10px;
+  font-size: 15px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+iconify-icon{
+  font-size: 30px;
+  margin-left: 5px;
 }
 
 
