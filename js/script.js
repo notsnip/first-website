@@ -1,3 +1,4 @@
+
 // kursor.js config
 let k1 = new kursor({
     type: 1,
@@ -26,6 +27,9 @@ audio.volume = 0.1;
 function pause(){
   audio.volume= 0;
 }
+
+
+
 
 
 

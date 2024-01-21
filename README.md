@@ -9,7 +9,7 @@ Used 3 Lines of JavaScript.
 
 
 
-  `Last Updated 28 October 2023.`
+  `RIP 2022-2024`
 
 
 
